@@ -4,6 +4,6 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        System.out.println("Hello my name is Kenneth-Matthew Velarde");
+        System.out.println("Goodbye, I finished my CS 3700 HW1");
     }
 }
